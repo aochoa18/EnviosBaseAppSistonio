@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enviosbase", "Enviosbase\Enviosbase.csproj", "{4F75E8B8-4255-4276-AB98-D549A457CC21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enviosbase.Business", "Enviosbase.Business\Enviosbase.Business.csproj", "{8E1492B8-D98E-45CC-99FC-9816DC6D68DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F75E8B8-4255-4276-AB98-D549A457CC21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F75E8B8-4255-4276-AB98-D549A457CC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F75E8B8-4255-4276-AB98-D549A457CC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F75E8B8-4255-4276-AB98-D549A457CC21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1492B8-D98E-45CC-99FC-9816DC6D68DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1492B8-D98E-45CC-99FC-9816DC6D68DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1492B8-D98E-45CC-99FC-9816DC6D68DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1492B8-D98E-45CC-99FC-9816DC6D68DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66B8739D-D637-409B-A0BC-14253CBF9525}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://magnus7213.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Enviosbase\\Enviosbase.csproj
+		SccProjectName1 = Enviosbase
+		SccLocalPath1 = Enviosbase
+		SccProjectUniqueName2 = Enviosbase.Business\\Enviosbase.Business.csproj
+		SccProjectName2 = Enviosbase.Business
+		SccLocalPath2 = Enviosbase.Business
+	EndGlobalSection
+EndGlobal

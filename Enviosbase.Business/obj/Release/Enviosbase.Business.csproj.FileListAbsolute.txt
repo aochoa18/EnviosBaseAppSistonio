@@ -1,0 +1,9 @@
+G:\RationalTFS\Magus\EnviosBase\EnviosBaseFrupis\Enviosbase.Business\bin\Release\Enviosbase.Business.dll
+G:\RationalTFS\Magus\EnviosBase\EnviosBaseFrupis\Enviosbase.Business\bin\Release\Enviosbase.Business.pdb
+G:\RationalTFS\Magus\EnviosBase\EnviosBaseFrupis\Enviosbase.Business\bin\Release\eCommerceSE.Cliente.dll
+G:\RationalTFS\Magus\EnviosBase\EnviosBaseFrupis\Enviosbase.Business\bin\Release\eCommerceSE.Model.dll
+G:\RationalTFS\Magus\EnviosBase\EnviosBaseFrupis\Enviosbase.Business\obj\Release\Enviosbase.Business.csprojAssemblyReference.cache
+G:\RationalTFS\Magus\EnviosBase\EnviosBaseFrupis\Enviosbase.Business\obj\Release\Enviosbase.Business.csproj.CoreCompileInputs.cache
+G:\RationalTFS\Magus\EnviosBase\EnviosBaseFrupis\Enviosbase.Business\obj\Release\Enviosbase.Business.csproj.CopyComplete
+G:\RationalTFS\Magus\EnviosBase\EnviosBaseFrupis\Enviosbase.Business\obj\Release\Enviosbase.Business.dll
+G:\RationalTFS\Magus\EnviosBase\EnviosBaseFrupis\Enviosbase.Business\obj\Release\Enviosbase.Business.pdb
